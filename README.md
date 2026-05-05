@@ -1,0 +1,5 @@
+## Dashboard Preview
+
+<p align="center">
+  <img src="Screenshot 2026-05-05 160941.png" width="30%" />
+</p>
