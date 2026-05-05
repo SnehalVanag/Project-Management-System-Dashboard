@@ -63,5 +63,7 @@ It compares **planned vs actual timelines**, highlights **delays**, and provides
 
 ---
 
-## 📂 Project Structure
+## 🙌 Author
+
+**Snehal Vanage**
 
